@@ -1,1 +1,1 @@
-main te 완료
+main test 완료
